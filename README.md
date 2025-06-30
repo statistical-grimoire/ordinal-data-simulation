@@ -59,7 +59,7 @@ If you use this code, dataset, or plot in your research, teaching, or publicatio
 ### BibTeX
 
 ```bibtex
-@online{ ,
+@misc{ ,
   author       = {Pisklak, Jeffrey M.},
   title        = {Ordinal Data and Effect Size Inflation: A Simulation},
   year         = {2025},
